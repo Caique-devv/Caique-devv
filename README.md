@@ -1,4 +1,4 @@
-# Olá, eu sou o Caique! 👋
+# Olá, eu sou o Caique! 
 
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo projetos web com JavaScript, HTML e CSS.
