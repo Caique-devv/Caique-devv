@@ -23,5 +23,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo proje
 ## Outros projetos
 
 
-- [Portfólio Moderno](https://github.com/Caique-devv/Portfolio-Moderno) · Portfólio simples e minimalista.
+- [Portal 137](https://github.com/Caique-devv/portal-137) · Catálogo de Rick and Morty com comparação de personagens.
+- [Axiom](https://github.com/Caique-devv/Axiom) · Chatbot de uso local com respostas em tempo real.
 - [Tela de Cadastro](https://github.com/Caique-devv/Tela-de-Cadastro) · Interface de cadastro.
