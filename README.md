@@ -1,7 +1,7 @@
 # Olá, eu sou o Caique! 
 
 
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo projetos web com JavaScript, HTML e CSS.
+Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo projetos web com JavaScript, HTML e CSS. Tenho experiência e facilidade para trabalhar com ferramentas de inteligência artificial no desenvolvimento de projetos.
 
 
 ## Tecnologias
