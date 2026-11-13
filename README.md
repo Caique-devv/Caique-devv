@@ -26,4 +26,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo proje
 
 - [Portal 137](https://github.com/Caique-devv/portal-137) · Catálogo de Rick and Morty com comparação de personagens.
 - [Axiom](https://github.com/Caique-devv/Axiom) · Chatbot de uso local com respostas em tempo real.
-- [Tela de Cadastro](https://github.com/Caique-devv/Tela-de-Cadastro) · Interface de cadastro.
+- [Painel de Gastos](https://github.com/Caique-devv/Painel-de-Gastos) · Painel de finanças pessoais com gráficos e exportação CSV.
