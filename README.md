@@ -19,8 +19,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo proje
 ## Projeto em destaque
 
 
-**Axiom** · Chatbot de uso local com respostas em tempo real, seleção de provedores de IA, busca no histórico e galeria de imagens. Em desenvolvimento.
-
+**Arcane Rift** · https://arcane-rift-seven.vercel.app
 
 ## Outros projetos
 
