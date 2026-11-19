@@ -20,6 +20,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo proje
 
 
 **Arcane Rift** · https://arcane-rift-seven.vercel.app
+Arcane Rift é um jogo roguelike de ação 2D em pixel art, desenvolvido com Phaser 3, TypeScript e Vite, inspirado no jogo Soul Knight.
 
 ## Outros projetos
 
