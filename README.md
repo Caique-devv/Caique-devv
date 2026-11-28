@@ -38,7 +38,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo proje
 ![Claude](https://img.shields.io/badge/Claude-A34F2A?style=for-the-badge&logo=claude&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-80391E?style=for-the-badge&logo=claude&logoColor=white)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-292D32?style=for-the-badge)
-![Antigravity IDE](https://img.shields.io/badge/Antigravity%20IDE-345DB9?style=for-the-badge)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-101010?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 **Versionamento**
