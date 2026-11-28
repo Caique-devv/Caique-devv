@@ -15,15 +15,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e desenvolvo proje
 
 **Backend**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Dados, automação e IA**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge)
 ![Groq API](https://img.shields.io/badge/Groq%20API-B74122?style=for-the-badge)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-345DB9?style=for-the-badge&logo=googlegemini&logoColor=white)
